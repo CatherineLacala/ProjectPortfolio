@@ -120,3 +120,5 @@ Concepts Demonstrated:
 - Basic cryptanalysis through brute-force search and pattern detection
 
 - Use of streams (stringstream) for tokenizing and analyzing text
+
+⚠️ Repository is private due to academic collaboration policies.
