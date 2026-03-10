@@ -90,3 +90,33 @@ Concepts Demonstrated:
 
 ⚠️ Repository is private due to academic collaboration policies.
 
+-------------------------------------------------------------------------------------
+🔐 Encryption & Cipher Toolkit
+
+C++ | Algorithms | String Processing
+
+Command-line encryption toolkit that allows users to encrypt, decrypt, analyze, and break encoded messages using a custom shift-based cipher.
+
+Key Features:
+
+- Encrypts messages using a dynamic shift cipher based on a 27-character alphabet (A–Z + space)
+
+- Supports both forward and reverse encryption modes
+
+- Decrypts messages using the same shift logic to recover the original plaintext
+
+- Generates all 26 possible decrypted outputs to assist with manual analysis
+
+- Includes a code-breaking function that evaluates decrypted messages by detecting common English words
+
+Concepts Demonstrated: 
+
+- Algorithm design for encryption and decryption systems
+
+- Modular arithmetic for character transformations
+
+- String manipulation and parsing in C++
+
+- Basic cryptanalysis through brute-force search and pattern detection
+
+- Use of streams (stringstream) for tokenizing and analyzing text
