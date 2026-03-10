@@ -3,8 +3,9 @@ This repository provides an overview of technical projects I have built as a Com
 
 Many repositories are private due to coursework policies or collaborative ownership. If you are a recruiter or collaborator interested in viewing the full source code, feel free to reach out and I would be happy to share access.
 
+## Featured Projects
 
-🚀 SparkHacks – The Pitch
+### 🚀 SparkHacks – The Pitch
 
 Python | SQL | Full-Stack Prototype
 
@@ -33,7 +34,7 @@ Concepts Demonstrated:
 🔗 View Repository: https://github.com/CatherineLacala/The-Pitch.git
 
 -------------------------------------------------------------------------------------
-🌱 LeafLink Plant Monitoring System
+### 🌱 LeafLink Plant Monitoring System
 
 Arduino | C | Embedded Systems
 
@@ -62,7 +63,7 @@ Concepts Demonstrated:
 🔗 View Repository: https://github.com/CatherineLacala/LeafLink-Plant-Monitoring-System.git
 
 -------------------------------------------------------------------------------------
-♠️ 3-Card Poker Client-Server Application
+### ♠️ 3-Card Poker Client-Server Application
 
 Java | JavaFX | Networking
 
@@ -88,10 +89,10 @@ Concepts Demonstrated:
 
 - Event-driven UI development
 
-⚠️ Repository is private due to academic collaboration policies.
+*⚠️ Repository is private due to academic collaboration policies.*
 
 -------------------------------------------------------------------------------------
-🔐 Encryption & Cipher Toolkit
+### 🔐 Encryption & Cipher Toolkit
 
 C++ | Algorithms | String Processing
 
@@ -121,4 +122,4 @@ Concepts Demonstrated:
 
 - Use of streams (stringstream) for tokenizing and analyzing text
 
-⚠️ Repository is private due to academic collaboration policies.
+*⚠️ Repository is private due to academic collaboration policies.*
