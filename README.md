@@ -33,6 +33,35 @@ Concepts Demonstrated:
 🔗 View Repository: https://github.com/CatherineLacala/The-Pitch.git
 
 -------------------------------------------------------------------------------------
+🌱 LeafLink Plant Monitoring System
+
+Arduino | C | Embedded Systems
+
+Sensor-based plant monitoring system that measures soil moisture and environmental conditions using Arduino hardware and analog sensors.
+
+Key Features:
+
+- Real-time soil moisture detection using analog sensors
+
+- Serial communication for transmitting environmental data
+
+- LED indicator system for immediate visual feedback
+
+- Hardware–software integration with sensor calibration and debugging
+
+Concepts Demonstrated:
+
+- Embedded systems development
+
+- Analog signal processing
+
+- Microcontroller programming in C
+
+- Hardware debugging and calibration
+
+🔗 View Repository: https://github.com/CatherineLacala/LeafLink-Plant-Monitoring-System.git
+
+-------------------------------------------------------------------------------------
 ♠️ 3-Card Poker Client-Server Application
 
 Java | JavaFX | Networking
@@ -60,3 +89,4 @@ Concepts Demonstrated:
 - Event-driven UI development
 
 ⚠️ Repository is private due to academic collaboration policies.
+
