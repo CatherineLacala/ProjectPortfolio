@@ -5,6 +5,30 @@ Many repositories are private due to coursework policies or collaborative owners
 
 ## Featured Projects
 
+### 🚄 CTA Database App
+
+Python | SQL
+
+Console-based Python program that inputs commands from the user and outputs data from the CTA_L_Daily_Ridership database. SQL is used to retrieve and compute most of the information, while Python is used to display the results and, if the user chooses, to plot as well.
+
+Key Features:
+
+- Interactive command-line interface for exploring and analyzing CTA L ridership data
+- SQLite database integration to query and aggregate transit data across stations, stops, and ridership records
+- Data visualization with Matplotlib to generate yearly, monthly, and station comparison plots
+- Location-based station search that identifies and maps stations within a one-mile radius using geographic coordinates
+
+Concepts Demonstrated:
+
+- SQL data analysis using joins, grouping, filtering, and aggregate functions (SUM, COUNT, MIN, MAX)
+- Python-SQL integration using sqlite3 library for executing queries and processing results
+- Modular program design with dedicated functions for each command and resuable helper functions
+- Data processing and visualization workflows, including list manipulation, formatting, and plotting time-series data
+
+*⚠️ Repository is private due to academic collaboration policies.*
+
+-------------------------------------------------------------------------------------
+
 ### 🚀 SparkHacks – The Pitch
 
 Python | SQL | Full-Stack Prototype
