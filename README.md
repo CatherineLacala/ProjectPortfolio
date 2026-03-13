@@ -7,7 +7,7 @@ Many repositories are private due to coursework policies or collaborative owners
 
 ### 🚄 CTA Database App
 
-Python | SQL
+Python | SQL | SQLite | Matplotlib
 
 Console-based Python program that inputs commands from the user and outputs data from the CTA_L_Daily_Ridership database. SQL is used to retrieve and compute most of the information, while Python is used to display the results and, if the user chooses, to plot as well.
 
