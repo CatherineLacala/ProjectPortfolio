@@ -25,6 +25,8 @@ Concepts Demonstrated:
 - Modular program design with dedicated functions for each command and resuable helper functions
 - Data processing and visualization workflows, including list manipulation, formatting, and plotting time-series data
 
+**Example Commands & Output:** https://docs.google.com/document/d/1l7u34uziQNezskGdOkry6PYPIPA9Snlxvw_Lf_bqqdM/edit?usp=sharing
+
 *⚠️ Repository is private due to academic collaboration policies.*
 
 -------------------------------------------------------------------------------------
